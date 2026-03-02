@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/webybox/unisearch/main/.github/assets/logo.png" alt="UniSearch logo" width="120" />
+  <img src=".github/assets/logo.png" alt="UniSearch logo" width="120" />
 </p>
 
 <h1 align="center">UniSearch Issue Tracker</h1>
